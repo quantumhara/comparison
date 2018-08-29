@@ -1,4 +1,4 @@
-#import numpy as np
+import numpy as np
 
 n = 1000000000
 sum = 0.0
